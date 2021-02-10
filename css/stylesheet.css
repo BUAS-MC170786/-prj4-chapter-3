@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+h3{text-align: center}
+
+p{ color: green
+}
+#name{align-content: center;
+	border: dashed lightblue;
+	color: purple;
+	background-color: black;
+}
+
+.container {
+    color: red;
+    border: 10px ridge purple;
+    background-color: lightblue;
+    padding: 50px;
+    text-align: center;
+}
+.studentsreview{
+	align-content: center;
+	color: yellow;
+	padding: 20px;
+}
